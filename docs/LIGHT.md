@@ -71,3 +71,15 @@ Contributing your own code files is welcome. However, we do not accept incomplet
 | Code                             | Supported Models | Controller |
 |----------------------------------|------------------|------------|
 | [1060](../codes/light/1060.json) | TLR-002          | Broadlink  |
+
+#### Taobao
+
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+[1070](../codes/fan/1070.json)|XH-MD<br>XH-FS|Broadlink
+
+#### Westinghouse
+
+| Code                             | Supported Models | Controller |
+|----------------------------------|------------------|------------|
+| [1080](../codes/light/1080.json) | GFC-52V-L        | Broadlink  |

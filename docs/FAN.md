@@ -201,3 +201,15 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
 [1240](../codes/fan/1240.json)|Air Timer TS+|Broadlink
+
+#### Taobao
+
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+[1250](../codes/fan/1250.json)|XH-MD<br>XH-FS|Broadlink
+
+#### Westinghouse
+
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+[1260](../codes/fan/1260.json)|GFC-52V-L|Broadlink
